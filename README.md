@@ -1,9 +1,5 @@
 # [2조_READ US] READ YOU _ 테오의 스프린트 17기
 
-<p align="center">
-<img src="https://readyou.s3.ap-southeast-2.amazonaws.com/92f37744-a33a-491c-91c1-d7ec6f61ce2c-facebook.png" width="60%" />
-</p>
-
 # 💼 서비스 소개
 **README.md** 파일은 **코드 프로젝트의 첫인상을 결정짓는 중요한 콘텐츠**입니다. 
 
@@ -27,7 +23,25 @@
 
 ```
 <br >
-<br >
+
+# 🔍 코드 리뷰와 협업 경험
+
+3일이라는 짧은 개발 기간 동안 팀원들과 함께 코드 리뷰에 적극적으로 참여하며 협업을 했습니다.
+작업량이 많지는 않았지만 담당한 부분을 완료한 후 팀원들이 올린 PR 코드에 대해 확인하고 의견을 나눴습니다.
+
+구체적인 PR 리뷰 사례는 아래 링크에서 확인할 수 있습니다.
+
+**PR 리뷰 예시**
+- [PR#11](https://github.com/Read-U/readyou-front/pull/11)
+- [PR#12](https://github.com/Read-U/readyou-front/pull/12)
+- [PR#14](https://github.com/Read-U/readyou-front/pull/14)
+- [PR#56](https://github.com/Read-U/readyou-front/pull/56)
+
+**전체 PR 기록 확인하기**  
+- [PR 목록 보기](https://github.com/Read-U/readyou-front/pulls?q=is%3Apr+is%3Aclosed) _(2024년 4월 기준)_
+
+
+---
 
 # 🗓️ 개발 기간
 
